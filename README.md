@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/2subhadeep/2subhadeep/blob/main/githubprofile.gif?raw=true" alt="Banner" width="40%" />
 </p>
-<div align="center">
-## Hi, I'm Subhadeep 👋
+##<div align="center">
+Hi, I'm Subhadeep 👋
 </div>
 
 💻 Full Stack Developer | AI Enthusiast<br/>
