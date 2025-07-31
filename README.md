@@ -2,17 +2,13 @@
   <img src="https://github.com/2subhadeep/2subhadeep/blob/main/githubprofile.gif?raw=true" alt="Banner" width="40%" />
 </p>
 
-<p align="center">
-
-## Hi, I'm Subhadeep 👋
-
-</p>
+<h2 style="text-align: center;">Hi, I'm Subhadeep 👋</h2>
 
 💻 Full Stack Developer | AI Enthusiast  
 🚀 Passionate about building modern web apps and intelligent systems  
 🛠️ Tech Stack: React, Node.js, Python, MongoDB, MySQL, TensorFlow, OpenCV  
 📚 Currently exploring: Generative AI, Computer Vision, and LLMs  
-📈 Always learning and open to collaboration on impactful projects  
+📈 Always learning and open to collaboration on impactful projects   
 
 
 ## 🌐 Socials:
