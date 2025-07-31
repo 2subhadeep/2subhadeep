@@ -2,7 +2,11 @@
   <img src="https://github.com/2subhadeep/2subhadeep/blob/main/githubprofile.gif?raw=true" alt="Banner" width="40%" />
 </p>
 
-<h2 style="text-align: center;">Hi, I'm Subhadeep 👋</h2>
+<div align="center">
+
+<h2>Hi, I'm Subhadeep 👋</h2>
+
+</div>
 
 💻 Full Stack Developer | AI Enthusiast  
 🚀 Passionate about building modern web apps and intelligent systems  
