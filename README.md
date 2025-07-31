@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://github.com/2subhadeep/2subhadeep/blob/main/githubprofile.gif?raw=true" alt="Banner" width="40%" />
 </p>
-##<div align="center">
-Hi, I'm Subhadeep 👋
-</div>
 
+##Hi, I'm Subhadeep 👋
 💻 Full Stack Developer | AI Enthusiast<br/>
 🚀 Passionate about building modern web apps and intelligent systems<br/>
 🛠️ Tech Stack: React, Node.js, Python, MongoDB, MySQL, TensorFlow, OpenCV<br/>
