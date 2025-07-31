@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/2subhadeep/2subhadeep/blob/main/githubprofile.gif?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/2subhadeep/2subhadeep/blob/main/githubprofile.gif?raw=true" alt="Banner" width="50%" />
 </p>
 
 ## Hi, I'm Subhadeep 👋
