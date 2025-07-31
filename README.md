@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://your-link-to-gif.com/banner.gif](https://github.com/Potential17/Potential17/blob/master/user%20(2).gif)" alt="Subhadeep Banner" width="100%" />
+</p>
+
 ## Hi, I'm Subhadeep 👋
 
 💻 Full Stack Developer | AI Enthusiast<br/>
